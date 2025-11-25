@@ -28,7 +28,7 @@ export const Experience = () => {
                 </div>
                 <Badge variant="secondary" className="flex items-center gap-2">
                   <Calendar className="h-4 w-4" />
-                  June 2024 - Present
+                  June 2025 - Present
                 </Badge>
               </div>
             </CardHeader>
